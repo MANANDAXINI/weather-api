@@ -5,13 +5,19 @@
     box-sizing: border-box;
 }
 
-body{
-    background: #2222;
+.bd{
+    background-color: black
+}
+.box{
+    width: 50%;
+    margin-left: 25rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 .card{
-    width:90%
+    width:50%
     max-width350px;
-    background: linear-gradient(135deg,#39c7e7,#8bfc4a);
+    background: linear-gradient(135deg,#ef4d57,#026a36);
     color: #fff;
     margin:100 px auto 0;
     border-radius: 20px;
